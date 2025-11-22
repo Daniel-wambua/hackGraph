@@ -1,34 +1,34 @@
-# 🌱 goGreen 
 
-With **goGreen**, you can make your profile look like you've been hard at work... even if you haven't. 
-NodeJs script to make commits to the past (or the future) to go green on GitHub.
+# 📊 hackGraph
+
+With **hackGraph**, you can make your GitHub profile look like you've been hard at work... even if you haven't. This Node.js script lets you create commits in the past (or the future) to fill your GitHub contribution graph with custom patterns, artwork, or just a lot of green!
 
 ## About
 
-**goGreen** helps you create commits on your GitHub profile for any date in the past. Whether you want to fill up your contribution graph or even make cool patterns and artwork.
+**hackGraph** helps you generate commits on your GitHub profile for any date. Whether you want to fill up your contribution graph or create cool designs, hackGraph makes it easy.
 
 ## Getting Started
 
 Follow these steps to bring your contribution graph to life:
 
 1. **Clone this repository**
-```bash
-git clone https://github.com/fenrir2608/goGreen.git
-cd goGreen
-```
-3. **Set up your project**
-Initialize a new Node.js project:
-```bash
-npm init -y
+  ```bash
+  git clone https://github.com/fenrir2608/hackGraph.git
+  cd hackGraph
+  ```
+2. **Set up your project**
+  Initialize a new Node.js project:
+  ```bash
+  npm init -y
   ```
 3. **Install the required npm modules**
-You'll need a few modules to get everything running smoothly. Install them all with:
+  Install all dependencies:
   ```bash
   npm install moment simple-git random
   ```
 4. **Create your commit script**
-- Create a JavaScript file to manage your commits.
-- Create a JSON file to store all the commit timestamp data.
+  - Create a JavaScript file to manage your commits.
+  - Create a JSON file to store all the commit timestamp data.
 
 ## Room for Improvement
 
@@ -46,4 +46,4 @@ So, you've got the basics down. What's next?
 
 ## Credits
 
-Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) for the original video behind this project.
+Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) and [homyorke](https://github.com/fenrir2608) for the original inspiration behind this project.

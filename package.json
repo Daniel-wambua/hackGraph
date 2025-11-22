@@ -1,5 +1,5 @@
 {
-  "name": "thomyorke",
+  "name": "hackGraph",
   "version": "1.0.0",
   "description": "nice dream",
   "main": "index.js",
@@ -14,6 +14,6 @@
     "jsonfile": "^6.1.0",
     "moment": "^2.30.1",
     "random": "^4.1.0",
-    "simple-git": "^3.25.0"
+    "simple-git": "^3.30.0"
   }
 }
