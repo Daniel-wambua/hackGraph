@@ -1,5 +1,5 @@
 {
-  "name": "hackGraph",
+  "name": "hackgraph",
   "version": "1.0.0",
   "description": "nice dream",
   "main": "index.js",
@@ -15,5 +15,14 @@
     "moment": "^2.30.1",
     "random": "^4.1.0",
     "simple-git": "^3.30.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-wambua/hackGraph.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Daniel-wambua/hackGraph/issues"
+  },
+  "homepage": "https://github.com/Daniel-wambua/hackGraph#readme"
 }
